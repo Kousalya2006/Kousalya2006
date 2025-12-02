@@ -1,7 +1,7 @@
-<div align="center">👋 Hi, I'm Kousalya Vallamkonda
+<div align="center"> Hi, I'm Kousalya Vallamkonda
 CSE – AIML Student | AI/ML Developer | Deep Learning Enthusiast
 </div>
-🚀 About Me
+**About Me**
 
 🌟 Passionate CSE AIML student building real-world AI/ML projects
 🤖 Interested in Computer Vision, NLP, Deep Learning & LLMs
